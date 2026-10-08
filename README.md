@@ -6,6 +6,8 @@
 
 **the private test build of fischhub, for approved players.**
 
+current beta: **2.6.5-beta.2** · menu and keybind focus fix included.
+
 </div>
 
 ```lua
